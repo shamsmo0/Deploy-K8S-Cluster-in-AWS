@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ITI.ExamSystem.API.props" />
-</Project>
